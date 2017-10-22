@@ -430,9 +430,9 @@ if not database:get("setnumbergp") then
 end
   print("\027[" .. color.black[1] .. ";" .. color.green[2] .. "m\n➡➡ [•• ᴄᴏɴғɪʀᴍᴇᴅ ʟɪᴄᴇɴsᴇ ° ʙʏ AsTaE °  ••]\n\027[00m")
 
-print("\027[" .. color.black[1] .. ";" .. color.white[2] .. "m\n➡➡ [••ᴄʜᴀɴɴᴇʟ: @SShteam | ɪs sᴇɴᴅ ° ᴜᴘᴅᴇᴛᴇ ° ᴍᴏᴅʀɴ••] ▶\n\027[00m")
+print("\027[" .. color.black[1] .. ";" .. color.white[2] .. "m\n➡➡ [••Developer: @MohammadHasan_Rad | ] ▶\n\027[00m")
 
-print("\027[" .. color.black[1] .. ";" .. color.white[2] .. "m\n➡➡ [••برای دریافت اپدیت ها  به کانال ما بزنید | ᴄʜᴀɴɴᴇʟ: @SShteam ••] ▶\n\027[00m")
+print("\027[" .. color.black[1] .. ";" .. color.white[2] .. "m\n➡➡ [•• نویسنده ربات : @MohammadHasan_Rad] ▶\n\027[00m")
 
 
 local is_Naji = function(msg)
