@@ -17,7 +17,7 @@ local day = 86400
 local week = 604800
 local MaxChar = 15
 local NumberReturn = 12
-local iNaji = 433435731
+local iNaji = 301047221
 http.TIMEOUT = 10
 notify.init("Telegram updates")
 local senspost = {
